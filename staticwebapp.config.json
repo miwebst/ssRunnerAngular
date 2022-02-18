@@ -5,7 +5,7 @@
       "headers": [
         "mitch-header": "1234"
       ]
-    }
+    },
     {
       "route": "/profile.html",
       "allowedRoles": ["authenticated"]
